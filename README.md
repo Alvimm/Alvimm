@@ -1,3 +1,11 @@
+<h4 align="center">  
+    
+  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif)
+    
+</h4>
+
+
+
 ## Hi! i'm Filipe Alvim, i'm learning and coding 📚 💻 👨‍💻
 
 
@@ -25,5 +33,11 @@
   <div>
     <a href = "mailto:filipe2012alvim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipe-alvim-178518210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>  
+  </div> 
+  
+  <h4 align="center">  
+    
+  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif)
+    
+  </h4>
 
