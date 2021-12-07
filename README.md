@@ -9,7 +9,7 @@
 ## Hi! i'm Filipe Alvim, i'm learning and coding 📚 💻 👨‍💻
 
 
-- 🌱 I’m currently learning Java Script, NodeJS, React, Html, Css, MongoDb, Bootstrap, Docker
+- 🌱 I’m currently learning JavaScript, NodeJS, React, Html, Css, MongoDb, Bootstrap, Docker
 
 
 <div align="center">
