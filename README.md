@@ -9,8 +9,8 @@
 ## Hi! i'm Filipe Alvim, i'm learning and coding 📚 💻 👨‍💻
 
 
-- 🌱 I’m currently learning JavaScript, NodeJS, React, Html, Css, MongoDb, Bootstrap, Docker
-
+- 🌱 I’m currently learning JavaScript, Typescript, NodeJS, React, Html, Css, MongoDb, Bootstrap, Docker
+ 
 
 <div align="center">
   <a href="https://github.com/Alvimm">
@@ -20,6 +20,7 @@
   
   <div style="display: inline_block" align="center" ><br>
   <img align="center" alt="filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="filipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="filipe-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="filipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="filipe-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
