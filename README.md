@@ -8,9 +8,9 @@
 
 ## Hi! i'm Filipe Alvim, i'm learning coding 📚 💻 👨‍💻
 
-- Skills: Html, Css, JavaScript
+- Skills: Html, Css, JavaScript, Typescript
 
-- I’m currently learning Typescript, React, Angular, Vue.js Node.js, MongoDb, Docker
+- I’m currently learning React, Angular, Vue.js Node.js, MongoDb, Docker
  
 
 <div align="center">
