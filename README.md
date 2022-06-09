@@ -4,9 +4,11 @@
     
 </h4>
 
-
-
-## Hi! i'm Filipe Alvim, i'm learning coding 📚 💻 👨‍💻
+<div align="center">
+    
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&size=26&color=1BF734&lines=Hi!+I'm+Filipe+Alvim;I'm+learning+programming)](https://git.io/typing-svg)
+    
+</div>
 
 - Skills: Html, Css, JavaScript, Typescript
 
@@ -39,6 +41,7 @@
     <a href = "mailto:filipe2012alvim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipe-alvim-178518210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div> 
+     
   
   <h4 align="center">  
     
