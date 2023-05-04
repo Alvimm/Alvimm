@@ -8,14 +8,14 @@
     
 </h4>
 
-## - Skills: Html, Css, Bootstrap, JavaScript, Typescript, React, Vue, Node.js, Python, MySql, PostgreSQL, MongoDb
-
-<!-- <div align="center">
+ - Skills: Html, Css, Bootstrap, JavaScript, Typescript, React, Vue, Node.js, Python, MySql, PostgreSQL, MongoDb
+<hr>
+<div align="center">
   <a href="https://github.com/Alvimm">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alvimm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvimm&layout=compact&langs_count=7&theme=tokyonight"/>
-</div> -->
-  
+</div> 
+<hr>
 <div align="center" >
     <img align="center" alt="Html-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <span>&nbsp;&nbsp</span>
@@ -43,7 +43,6 @@
     <img align="center" alt="Mongo-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
   
-##
   
   <h4 align="center">
     <a href = "mailto:filipe2012alvim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
