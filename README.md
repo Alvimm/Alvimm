@@ -8,7 +8,7 @@
     
 </h4>
 
- - Skills: Html, Css, Bootstrap, JavaScript, Typescript, React, Vue, Node.js, Python, MySql, PostgreSQL, MongoDb
+ - Skills: Html, Css, Bootstrap, JavaScript, Typescript, Angular, React, Vue, NextJs, Node.js, Python, MySql, PostgreSQL, MongoDb
 <hr>
 <div align="center">
   <a href="https://github.com/Alvimm">
@@ -27,15 +27,20 @@
     <span>&nbsp;&nbsp</span>
     <img align="center" alt="Ts-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <span>&nbsp;&nbsp</span>
+    <img align="center" alt="Angular-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+    <span>&nbsp;&nbsp</span>
     <img align="center" alt="React-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <span>&nbsp;&nbsp</span>
     <img align="center" alt="Vue-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
     <span>&nbsp;&nbsp</span>
+    <img align="center" alt="Nextjs-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    <span>&nbsp;&nbsp</span>
     <img align="center" alt="Node-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <span>&nbsp;&nbsp</span>
-    <img align="center" alt="Python-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <br/>
     <br/>
+    <img align="center" alt="Python-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /
+    <span>&nbsp;&nbsp</span>
     <img align="center" alt="MySql-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <span>&nbsp;&nbsp</span>
     <img align="center" alt="Postgres-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
