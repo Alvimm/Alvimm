@@ -8,7 +8,10 @@
     
 </h4>
 
- - Skills: Html, Css, Bootstrap, JavaScript, Typescript, Angular, React, Vue, NextJs, Node.js, Python, MySql, PostgreSQL, MongoDb
+ - Frontend skills: Html, Css, Bootstrap, Angular, React, Vue, NextJs
+ <br>
+ 
+ - Backend skills: Java, Node.js, Python, MySql, PostgreSQL, MongoDb, Docker
 <hr>
 <div align="center">
   <a href="https://github.com/Alvimm">
@@ -22,11 +25,7 @@
     <img align="center" alt="Css-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <span>&nbsp;&nbsp</span>
     <img align="center" alt="Bootstrap-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <span>&nbsp;&nbsp</span>
-    <img align="center" alt="Js-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <span>&nbsp;&nbsp</span>
-    <img align="center" alt="Ts-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <span>&nbsp;&nbsp</span>
+  <span>&nbsp;&nbsp</span>
     <img align="center" alt="Angular-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
     <span>&nbsp;&nbsp</span>
     <img align="center" alt="React-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -35,10 +34,12 @@
     <span>&nbsp;&nbsp</span>
     <img align="center" alt="Nextjs-icon" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <span>&nbsp;&nbsp</span>
+  <br>
+  <br>
+   <img align="center" alt="Java-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <span>&nbsp;&nbsp</span>
     <img align="center" alt="Node-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <span>&nbsp;&nbsp</span>
-    <br/>
-    <br/>
     <img align="center" alt="Python-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /
     <span>&nbsp;&nbsp</span>
     <img align="center" alt="MySql-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -46,6 +47,8 @@
     <img align="center" alt="Postgres-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <span>&nbsp;&nbsp</span>
     <img align="center" alt="Mongo-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <span>&nbsp;&nbsp</span>
+    <img align="center" alt="Docker-icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
   
   
