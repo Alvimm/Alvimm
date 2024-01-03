@@ -22,7 +22,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://pt-br.reactjs.org/">
+      <a href="https://react.dev">
         <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
         <sub>
           <b>
