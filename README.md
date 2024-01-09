@@ -146,11 +146,11 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://expressjs.com/">
-        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
+      <a href="https://bun.sh/">
+        <img src="https://simpleskill.icons.workers.dev/svg?i=bun&theme=dark" width="65px" alt="Bun icon"/><br/>
         <sub>
           <b>
-            <pre>Express.js</pre>
+            <pre>Bun</pre>
           </b>
         </sub>
       </a>
